@@ -1,4 +1,3 @@
-#pragma once
 static constexpr const char* nouns[] = {
 "aardvark", "abacus", "abbey", "abbreviation", "abdomen", "ability", "abnormality", "abolishment", "abortion", "abrogation", 
 "absence", "abundance", "abuse", "academics", "academy", "accelerant", "accelerator", "accent", "acceptance", "access", "accessory", 
@@ -595,4 +594,4 @@ static constexpr const char* nouns[] = {
 "yew", "yin", "yoga", "yogurt", "yoke", "yolk", "young", "youngster", "yourself", "youth", "yoyo", "yurt", "zampone", "zebra", 
 "zebrafish", "zen", "zephyr", "zero", "ziggurat", "zinc", "zipper", "zither", "zombie", "zone", "zoo", "zoologist", "zoology", 
 "zoot-suit", "zucchini"
-}
+};
