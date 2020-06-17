@@ -1,4 +1,5 @@
-static constexpr auto nouns[] = {
+#pragma once
+static constexpr const char* nouns[] = {
 "aardvark", "abacus", "abbey", "abbreviation", "abdomen", "ability", "abnormality", "abolishment", "abortion", "abrogation", 
 "absence", "abundance", "abuse", "academics", "academy", "accelerant", "accelerator", "accent", "acceptance", "access", "accessory", 
 "accident", "accommodation", "accompanist", "accomplishment", "accord", "accordance", "accordion", "account", "accountability", 
